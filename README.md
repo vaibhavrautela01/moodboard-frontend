@@ -57,7 +57,10 @@
 
 ❌ Restriction: No future date selection beyond current week
 
+
+
 📊 ##Custom Mood Logic:##
+
 1. Date Range Setup (Last 7 Days): created an array of the last 7 days formatted as DD-MM-YYYY. Stored in the state.
 2.  Mood Selection Logic: Moods are color-coded:
     "yellow" → Happy 😄
