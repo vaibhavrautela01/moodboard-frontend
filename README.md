@@ -72,8 +72,14 @@
 5.   Visual Feedback: UI feedback is given by changing the backgroundColor of the main container to the currently selected mood color.
 6.   Taking Care of Responsiveness: Working on more Flexbox to make UI attractive and responsive at the same time using tailwind, CSS (propeties like(vmax and other).
    
-🌈 Screenshots
- 
+🌈 Screenshots:
+
+For Anroid/Phone
+![Screenshot 2025-06-09 003720](https://github.com/user-attachments/assets/61c994c5-0ee4-4191-a1ad-d59c7965e5b2)
+
+For browser/Tablet
+ ![Screenshot 2025-06-09 003659](https://github.com/user-attachments/assets/224341ff-5908-4985-bf13-a628661d05bb)
+
 🌐 Live Demo
 Deployed at Vercel: https://vaibhavrautelafrontend.vercel.app/
 
